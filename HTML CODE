@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" href="landingpage.css">
+</head>
+<body>
+    
+    <div id="main">
+        <nav>
+            <h1>CREATIVE MARKETING</h1>
+            <ul>
+                <li id="hm">Home</li>
+                <li>Services</li>
+                <li>Blog</li>
+                <li>About</li>
+                <li>FAQ</li>
+            </ul>
+        </nav>
+        <div id="box">
+            <div id="first">
+                <h1>Subscribe Now </h1>
+                <h2>to our Newsletter</h2>
+                
+                <p>  Itaque dolor quo commodi. Veritatis, dolorum! Blanditiis ea fugiat porro tempora, sed dolore voluptas quam, </p>
+                <input type="name" placeholder="Name">
+                <input type="Email" placeholder="Email" >
+                <button>send</button>
+            </div>
+            <div id="second">
+                <img src="./images (1).jpeg" id="img">
+            </div>
+        </div>
+       
+        
+        
+    </div>
+    
+</body>
+</html>
